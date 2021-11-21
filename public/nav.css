@@ -1,0 +1,29 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 50px;
+  box-shadow: none;
+}
+
+li {
+  display: inline;
+  float: left;
+  font-size: 30px;
+  margin: 5px;
+  color: white;
+}
+
+a {
+  display: inline;
+  padding: 8px;
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+	text-decoration: none;
+	color: white;
+}
+
